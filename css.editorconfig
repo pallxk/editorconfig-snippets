@@ -2,6 +2,6 @@
 # CSS
 # Following Google HTML/CSS Style Guide
 # https://google.github.io/styleguide/htmlcssguide.xml
-[*.css]
+[*.{css,less,sass,scss}]
 indent_style = space
 indent_size = 2
