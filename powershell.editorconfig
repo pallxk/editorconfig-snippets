@@ -1,0 +1,4 @@
+
+# Windows PowerShell
+[*.ps1]
+end_of_line = crlf

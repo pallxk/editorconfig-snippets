@@ -1,0 +1,4 @@
+
+# Windows Batch
+[*.{bat,cmd}]
+end_of_line = crlf
