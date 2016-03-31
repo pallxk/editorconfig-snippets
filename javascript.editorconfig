@@ -1,0 +1,7 @@
+
+# Javascript
+# Following Google JavaScript Style Guide
+# https://google.github.io/styleguide/javascriptguide.xml
+[*.js]
+indent_style = space
+indent_size = 2
