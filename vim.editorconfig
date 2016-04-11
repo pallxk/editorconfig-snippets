@@ -1,0 +1,8 @@
+
+# Vimscript
+# Following Google Vimscript Style Guide:
+#   https://google.github.io/styleguide/vimscriptguide.xml
+# This style is also used in Vimscripts shipped with vim.
+[*.vim{,rc}]
+indent_style = space
+indent_size = 2
