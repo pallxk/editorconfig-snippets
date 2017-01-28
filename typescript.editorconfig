@@ -1,0 +1,13 @@
+
+# TypeScript
+# Following Google JavaScript Style Guide
+# https://google.github.io/styleguide/javascriptguide.xml
+[*.ts]
+indent_style = space
+indent_size = 2
+
+# TypeScript Project Configuration File
+# Following the style of generated tsconfig.json by `tsc --init`
+[tsconfig.json]
+indent_style = space
+indent_size = 4
