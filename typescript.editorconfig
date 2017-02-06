@@ -17,3 +17,9 @@ indent_size = 4
 [typings.json]
 indent_style = space
 indent_size = 2
+
+# An extensible linter for the TypeScript language
+# Following the style of generated tslint.json by `tslint --init`
+[tslint.json]
+indent_style = space
+indent_size = 4
