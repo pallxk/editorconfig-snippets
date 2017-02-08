@@ -11,3 +11,9 @@ indent_size = 2
 [package.json]
 indent_style = space
 indent_size = 2
+
+# Bower
+# Following the style of generated bower.json by `bower init`
+[bower.json]
+indent_style = space
+indent_size = 2
