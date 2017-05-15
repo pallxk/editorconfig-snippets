@@ -1,0 +1,6 @@
+
+# InstallShield
+[Script Files/**.{Rul,rul,h}]
+end_of_line = crlf
+indent_style = tab
+indent_size = 4
