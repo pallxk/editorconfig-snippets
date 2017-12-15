@@ -1,0 +1,7 @@
+
+# Shell
+# Following Google Shell Style Guide
+# https://google.github.io/styleguide/shell.xml
+[*.{sh,bash}]
+indent_style = space
+indent_size = 2
