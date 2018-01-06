@@ -19,10 +19,3 @@ insert_final_new_line = false
 indent_style = space
 indent_size = 4
 insert_final_new_line = false
-
-# The TypeScript Definition Manager
-# Following the style of generated typings.json by `typings init`
-# Following the style of generated tsd.json by `tsd init` (deprecated)
-[{typings,tsd}.json]
-indent_style = space
-indent_size = 2
