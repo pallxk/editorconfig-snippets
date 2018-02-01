@@ -2,7 +2,7 @@
 # TypeScript
 # Following Google JavaScript Style Guide
 # https://google.github.io/styleguide/javascriptguide.xml
-[*.ts]
+[*.{ts,tsx}]
 indent_style = space
 indent_size = 2
 
